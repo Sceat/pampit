@@ -1,6 +1,6 @@
 # Pampit mofo
 
-Just don't miss any pumps
+Pampit is a bot allowing you to buy BTC pairs on binance to profits from pump groups
 
 ## Requirements
 use a `.env`
