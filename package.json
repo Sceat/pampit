@@ -1,0 +1,19 @@
+{
+  "name": "binancepump",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "DEBUG='Pampit*' node -r dotenv/config index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "debug": "^3.2.7",
+    "dotenv": "^8.2.0",
+    "node-binance-api": "^0.12.4",
+    "supports-color": "^8.1.1"
+  }
+}
